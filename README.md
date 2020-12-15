@@ -1,2 +1,2 @@
 # demoClasePrueba01
-Esto e sun aprueba de GitHub :)
+Esto es una prueba de GitHub :)
